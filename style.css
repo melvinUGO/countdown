@@ -197,7 +197,7 @@ ul {
     }
 }
 
-@media screen and (max-width:300px) {
+@media screen and (max-width:4800px) {
     .section-img{
         padding: 0;
     }
